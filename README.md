@@ -1,5 +1,7 @@
 # platzi-exchange
 
+  DEMO: https://exchangeiancode.netlify.app/
+  
 ## Project setup
 ```
 npm install
